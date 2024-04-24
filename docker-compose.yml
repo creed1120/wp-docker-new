@@ -19,7 +19,7 @@ services:
     image: wordpress:${WORDPRESS_VERSION:-latest}
     container_name: ${COMPOSE_PROJECT_1_NAME:-wordpress-1}
     ports:
-      - "8089:80"
+      - "8086:80"
     restart: always
     environment:
       - WORDPRESS_DB_NAME=${COMPOSE_PROJECT_1_NAME:-wordpress-1}
