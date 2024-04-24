@@ -3,6 +3,9 @@
 
 # Deploy Wordpress on Localhost and in Production using Docker Compose
 
+- [wordpress-webpack-2024 Bootstrap 5 Theme](https://github.com/creed1120/wordpress-webpack-2024):
+    clone the "wordpress-webpack-2024" to load the Bootstrap 5 Theme
+
 Related blog post:
 
   - [WordPress Local Development Using Docker
